@@ -2,7 +2,6 @@
 * :running: В веб-разработке с мая 2020 года.
 * :orange_book: Выпускник Яндекс.Практикума.
 * :computer: Ищу работу в качестве Frontend-разработчика.
-ify.svg" width="22px" height="22px">](https://open.spotify.com/playlist/07wHxD2DPUmjmdiKLeS7LQ?si=239eaba3da384521)
 
 ## Мой стек:
 ![HTML](./svg/html-5.svg)
