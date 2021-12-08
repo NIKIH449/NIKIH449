@@ -4,13 +4,16 @@
 * :computer: Ищу работу в качестве Frontend-разработчика.
 
 ## Мой стек:
-![HTML](./svg/html-5.svg)
-![CSS](./svg/css3.svg)
-![JS](./svg/JS.svg)
-![Git](./svg/git.svg)
-![React](./svg/react.svg)
-![Webpack](./svg/webpack.svg)
-![Node](./svg/nodejs.svg)
+![HTML](./svg/html-5.svg) HTML5
+![CSS](./svg/css3.svg) CSS3
+![JS](./svg/JS.svg) JS
+![Git](./svg/git.svg) GIT
+![React](./svg/react.svg) REACT
+![Webpack](./svg/webpack.svg) WEBPACK 
+![Node](./svg/nodejs.svg) NODE JS
+REDUX
+EXPRESS
+MONGODB
 
 ## Контакты:
 [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/nikita-druzhevskii-93b987220/)
