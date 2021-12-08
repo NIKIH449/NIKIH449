@@ -1,21 +1,21 @@
-## Обо мне:
+## About me:
 * :running: В веб-разработке с мая 2020 года.
 * :orange_book: Изучаю новые фреймворки.
 * :computer: Ищу работу в качестве Frontend-разработчика.
 
-## Мой стек:
-![HTML](./svg/html-5.svg) HTML5
-![CSS](./svg/css3.svg) CSS3
-![JS](./svg/JS.svg) JS
-![Git](./svg/git.svg) GIT
-![React](./svg/react.svg) REACT
-![Webpack](./svg/webpack.svg) WEBPACK 
-![Node](./svg/nodejs.svg) NODE JS
+## My stack:
+HTML5
+CSS3
+JS
+GIT
+REACT
+WEBPACK 
+NODE JS
 REDUX
 EXPRESS
 MONGODB
 
-## Контакты:
+## Contacts:
 [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/nikita-druzhevskii-93b987220/)
 [<img src="./svg/telegram.svg">](https://t.me/NIKIH449)
 [<img src="./svg/gmail.svg" width="96px" height="96px">](mailto:druzhevskii@gmail.com)
