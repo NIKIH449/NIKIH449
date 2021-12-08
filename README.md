@@ -1,19 +1,19 @@
 ## About me:
-* :running: В веб-разработке с мая 2020 года.
-* :orange_book: Изучаю новые фреймворки.
-* :computer: Ищу работу в качестве Frontend-разработчика.
+* :running: Web-developer since May 2020.
+* :orange_book: Learning new frameworks.
+* :computer: Looking for a job as a Frontend developer
 
 ## My stack:
-HTML5
-CSS3
-JS
-GIT
-REACT
-WEBPACK 
-NODE JS
-REDUX
-EXPRESS
-MONGODB
+HTML5,
+CSS3,
+JS,
+GIT,
+REACT,
+WEBPACK,
+NODE JS,
+REDUX,
+EXPRESS,
+MONGODB,
 
 ## Contacts:
 [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/nikita-druzhevskii-93b987220/)
