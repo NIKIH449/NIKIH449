@@ -1,7 +1,7 @@
 ## About me:
 * :running: Web-developer since May 2020.
 * :orange_book: Learning new frameworks.
-* 📖 Leraning TypeScript.
+* 📖 Learning TypeScript.
 * :computer: Looking for a job as a Frontend developer
 
 ## My stack:
